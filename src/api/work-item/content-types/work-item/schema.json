@@ -46,6 +46,9 @@
         "order": {
             "type": "integer",
             "default": 0
+        },
+        "tags": {
+            "type": "string"
         }
     }
 }
